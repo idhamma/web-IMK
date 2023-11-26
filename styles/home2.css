@@ -1,0 +1,1141 @@
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.home2-chF {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.home2-chF .auto-group-goxp-MPw {
+  box-sizing: border-box;
+  padding: 2.5rem 11.5rem 2.4rem 11.9rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 9.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .logo-4p9 {
+  margin: 0rem 5.2rem 6.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .logo-4p9 .logo-clean-1-NZw {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .logo-4p9 .study-smart-WAM {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .home-pB3 {
+  margin: 0rem 4.5rem 7.5rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .program-belajar-Lv5 {
+  margin: 0rem 57.5rem 7.5rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .search-bar-rtR {
+  margin: 8.3rem 3.4rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 0.3rem 0.9rem 0.279rem 0.9rem;
+  width: 50rem;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-goxp-MPw .search-bar-rtR .icon-search-outline-a3j {
+  margin-right: 43.7rem;
+  width: 4.5rem;
+  height: 4.2212rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home2-chF .auto-group-goxp-MPw .group-1000002805-s2q {
+  margin-top: 7.7rem;
+  width: 18rem;
+  height: 4.8rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-j1hm-hGm {
+  width: 100%;
+  height: 97.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-j1hm-hGm .rectangle-168-dw7 {
+  width: 192rem;
+  height: 84.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-168-bg.png');
+}
+.home2-chF .auto-group-j1hm-hGm .take-student-experience-to-the-next-level-wgu {
+  width: 72.2rem;
+  height: 12.4rem;
+  position: absolute;
+  left: 59.85rem;
+  top: 24.5rem;
+  text-align: center;
+  font-size: 5.6rem;
+  font-weight: 600;
+  line-height: 1.1071428571;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-j1hm-hGm .beragam-fitur-dan-konten-yang-dirancang-untuk-memaksimalkan-kemampuan-belajar-pengguna-dan-meningkatkan-peluang-sukses-mereka-dalam-ujian-masuk-perguruan-tinggi-Rc5 {
+  width: 82.9rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 39.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4444444444;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-j1hm-hGm .check-our-editions-to-suit-your-needs-GMo {
+  width: 92.5rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 49.75rem;
+  top: 91.5rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 500;
+  line-height: 1.0333333333;
+  color: #3c3c3c;
+  font-family: Libre Caslon Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP {
+  box-sizing: border-box;
+  padding-top: 6.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT {
+  margin: 0rem 2.1rem 4.9rem 1.9rem;
+  width: calc(100% - 4rem);
+  height: 38rem;
+  position: relative;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .rectangle-60-bYV {
+  width: 36rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.4rem;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .rectangle-61-82d {
+  width: 36rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .rectangle-62-rUR {
+  width: 36rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 38rem;
+  top: 0.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .rectangle-63-Bmb {
+  width: 36rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 76rem;
+  top: 0.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .rectangle-64-iWd {
+  width: 36rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 114rem;
+  top: 0.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .rectangle-65-ShX {
+  width: 36rem;
+  height: 37.6rem;
+  position: absolute;
+  left: 152rem;
+  top: 0.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .ultimate-ZXF {
+  width: 12.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 163.95rem;
+  top: 18rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .hemat-Tcd {
+  width: 9.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 17.1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .platinum-mdK {
+  width: 12.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 125.8rem;
+  top: 18rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .gold-4cR {
+  width: 6.7rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 90.7rem;
+  top: 17.8rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .paket-belajar-VVT .standard-Nd7 {
+  width: 13.2rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 49.4rem;
+  top: 17.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j {
+  margin: 0rem 0.2rem 4.6rem 0rem;
+  box-sizing: border-box;
+  padding: 5rem 18.6rem 5rem 15rem;
+  width: calc(100% - 0.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #545ae8;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .how-it-works-ZSh {
+  margin: 0rem 0rem 5rem 3.5rem;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.1;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru {
+  margin: 0rem 25.4rem 2rem 0rem;
+  height: 10rem;
+  display: flex;
+  column-gap: 31rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002833-asb {
+  box-sizing: border-box;
+  padding: 3.4rem 3.6rem;
+  height: 100%;
+  border: solid 0.05rem #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002833-asb .add-user-1-traced-8PK {
+  width: 2.8rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002834-Ex9 {
+  box-sizing: border-box;
+  padding: 3.6rem 3.4rem 3.3rem 3.3rem;
+  height: 100%;
+  border: solid 0.05rem #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002834-Ex9 .monitor-1-traced-NoT {
+  width: 3.3rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002835-HvR {
+  box-sizing: border-box;
+  padding: 3.4rem 3.9rem 3.3rem 3.9rem;
+  height: 100%;
+  border: solid 0.05rem #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002835-HvR .question-2-traced-S2d {
+  width: 2.2rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002836-9Sq {
+  box-sizing: border-box;
+  padding: 3.3rem 3.7rem 3.4rem 3.7rem;
+  height: 100%;
+  border: solid 0.05rem #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-r7wh-Gru .group-1000002836-9Sq .notepad-1-traced-ghf {
+  width: 2.6rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-hmfz-QNm {
+  margin: 0rem 23.4rem 0.6rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-hmfz-QNm .sign-up-LGR {
+  margin-right: 32.2rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-hmfz-QNm .get-access-sXF {
+  margin-right: 28.4rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-hmfz-QNm .practice-questions-Qn5 {
+  margin-right: 19.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-hmfz-QNm .get-result-Lvd {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.25;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-xflw-GZP {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-xflw-GZP .montes-vivamus-curae-quisque-et-primis-pretium-nullam-congue-dis-convallis-eget-ipsum-cubilia-ante-opD {
+  margin-right: 6.5rem;
+  max-width: 34.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4444444444;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-xflw-GZP .access-to-question-bank-of-over-2000-questions-VS9 {
+  margin: 0.2rem 9.2rem 0rem 0rem;
+  max-width: 31.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4444444444;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-xflw-GZP .prepare-for-the-mla-exam-in-multiple-modes-of-revision-and-track-your-progress-with-your-personalised-dashboard-aTb {
+  margin-right: 1.6rem;
+  max-width: 39.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4444444444;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .auto-group-xflw-GZP .compare-your-results-with-your-peers-with-advanced-analytics-sBo {
+  max-width: 35.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.4444444444;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002832-51j .group-1000002806-ac1 {
+  margin: 0rem 68.3rem 0rem 71.8rem;
+  width: calc(100% - 140.1rem);
+  height: 5.6rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0 0.6rem 1.7rem rgba(84, 90, 232, 0.25);
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh {
+  margin: 0rem 7.599rem 3.8rem 7.3rem;
+  width: calc(100% - 14.8987rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 {
+  margin: 0rem 0.001rem 1rem 0rem;
+  width: calc(100% - 0.0013rem);
+  height: 28.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf {
+  margin-right: 1.886rem;
+  width: 87.5127rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf .rectangle-31-hyT {
+  width: 87.5127rem;
+  height: 28.0959rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf .user-profile-cqX {
+  width: 87.5127rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 20.2rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #545ae8;
+  border-radius: 0 0 1.5rem 1.5rem;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf .ahmad-sutego-stei-institut-teknologi-bandung-7nH {
+  width: 28rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 4.2313rem;
+  top: 21.774rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf .ahmad-sutego-stei-institut-teknologi-bandung-7nH .ahmad-sutego-stei-institut-teknologi-bandung-7nH-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf .ahmad-sutego-stei-institut-teknologi-bandung-7nH .ahmad-sutego-stei-institut-teknologi-bandung-7nH-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-1-yXf .materi-pembelajaran-yang-disajikan-dengan-baik-dan-bantuan-konseling-yang-tersedia-membantu-saya-mengatasi-setiap-tantangan-saya-sangat-puas-dengan-hasilnya-VAZ {
+  width: 68.6rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 4.6209rem;
+  top: 5rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-3-ip1 {
+  box-sizing: border-box;
+  padding-top: 4.3855rem;
+  width: 87.7013rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-3-ip1 .study-smart-telah-membuktikan-nilainya-dalam-perjalanan-saya-masuk-ptn-materi-pembelajaran-yang-disajikan-dengan-baik-dan-bantuan-konseling-yang-tersedia-membantu-saya-mengatasi-setiap-tantangan-fDT {
+  margin: 0rem 1.851rem 4.115rem 0rem;
+  max-width: 73.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-3-ip1 .auto-group-ff7y-VTP {
+  box-sizing: border-box;
+  padding: 1.74rem 4.241rem 1.26rem 4.241rem;
+  width: 100%;
+  border: solid 0.1rem #000000;
+  background-color: #545ae8;
+  border-radius: 0 0 1.5rem 1.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-3-ip1 .auto-group-ff7y-VTP .jafri-maulana-ilmu-komunikasi-universitas-gadjah-mada-2CR {
+  max-width: 35.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-3-ip1 .auto-group-ff7y-VTP .jafri-maulana-ilmu-komunikasi-universitas-gadjah-mada-2CR .jafri-maulana-ilmu-komunikasi-universitas-gadjah-mada-2CR-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-ewby-H93 .testi-alumni-3-ip1 .auto-group-ff7y-VTP .jafri-maulana-ilmu-komunikasi-universitas-gadjah-mada-2CR .jafri-maulana-ilmu-komunikasi-universitas-gadjah-mada-2CR-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 {
+  width: 100%;
+  height: 28.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-2-cpq {
+  margin-right: 1.8873rem;
+  box-sizing: border-box;
+  padding-top: 4.7966rem;
+  width: 87.5127rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-2-cpq .materi-yang-berkualitas-dan-simulasi-ujian-yang-realistis-benar-benar-mempersiapkan-saya-dengan-baik-terima-kasih-study-smart-LVw {
+  margin: 0rem 7.357rem 5.903rem 0rem;
+  max-width: 69rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-2-cpq .auto-group-vbfq-bgm {
+  box-sizing: border-box;
+  padding: 2.14rem 3.948rem 1.56rem 3.948rem;
+  width: 100%;
+  border: solid 0.1rem #000000;
+  background-color: #545ae8;
+  border-radius: 0 0 1.5rem 1.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-2-cpq .auto-group-vbfq-bgm .salma-nur-prima-teknik-informatika-universitas-padjadjaran-8gh {
+  max-width: 36.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-2-cpq .auto-group-vbfq-bgm .salma-nur-prima-teknik-informatika-universitas-padjadjaran-8gh .salma-nur-prima-teknik-informatika-universitas-padjadjaran-8gh-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-2-cpq .auto-group-vbfq-bgm .salma-nur-prima-teknik-informatika-universitas-padjadjaran-8gh .salma-nur-prima-teknik-informatika-universitas-padjadjaran-8gh-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-4-PW9 {
+  box-sizing: border-box;
+  padding-top: 4.4rem;
+  width: 87.7013rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-4-PW9 .materi-berkualitas-try-out-yang-mirip-dengan-ujian-sebenarnya-pemantauan-kemajuan-dan-dukungan-konseling-telah-membuat-persiapan-saya-lebih-efisien-dan-efektif-fleksibilitas-belajar-juga-sangat-membantu-XsF {
+  margin: 0rem 4.919rem 3.2rem 0rem;
+  max-width: 70.9rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-4-PW9 .auto-group-gh4f-mFo {
+  box-sizing: border-box;
+  padding: 2.177rem 4.15rem 1.723rem 4.15rem;
+  width: 100%;
+  border: solid 0.1rem #000000;
+  background-color: #545ae8;
+  border-radius: 0 0 1.5rem 1.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-4-PW9 .auto-group-gh4f-mFo .bambang-sugeni-ilmu-politik-universitas-indonesia-JFj {
+  max-width: 28.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2102272511;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-4-PW9 .auto-group-gh4f-mFo .bambang-sugeni-ilmu-politik-universitas-indonesia-JFj .bambang-sugeni-ilmu-politik-universitas-indonesia-JFj-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .testimoni-alumni-mAh .auto-group-fy8f-GW5 .testi-alumni-4-PW9 .auto-group-gh4f-mFo .bambang-sugeni-ilmu-politik-universitas-indonesia-JFj .bambang-sugeni-ilmu-politik-universitas-indonesia-JFj-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding-top: 3.8rem;
+  width: 191.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #545ae8;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw {
+  margin: 0rem 14.6rem 5rem 14.7rem;
+  width: calc(100% - 29.3rem);
+  height: 27.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV {
+  width: 39.4rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-1000002829-jds {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-1000002829-jds .logo-tWm {
+  margin: 0rem 19.3rem 0.9rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.3rem;
+  width: calc(100% - 19.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-1000002829-jds .logo-tWm .auto-group-p6jx-ns3 {
+  margin-right: 0.8rem;
+  width: 5.6rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-1000002829-jds .logo-tWm .study-smart-viM {
+  margin-top: 0.23rem;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-1000002829-jds .dengan-kombinasi-konten-berkualitas-tinggi-alat-pengukuran-kemajuan-dan-dukungan-konseling-platform-ini-merupakan-mitra-belajar-yang-kuat-bagi-mereka-yang-bercita-cita-masuk-perguruan-tinggi-dengan-sukses-Fkd {
+  margin-left: 0.3rem;
+  max-width: 39.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6666666667;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-477-u4V {
+  margin-left: 0.3rem;
+  display: flex;
+  align-items: center;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-477-u4V .vector-3Rb {
+  margin-right: 3.3421rem;
+  width: 1.5579rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-477-u4V .x-twitter-BXo {
+  margin: 0rem 3.3rem 0.101rem 0rem;
+  width: 2.8rem;
+  height: 2.8985rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .group-1000002830-zAV .group-477-u4V .instagram-5-1-Haq {
+  margin-bottom: 0.0021rem;
+  width: 2.8051rem;
+  height: 2.7979rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 {
+  box-sizing: border-box;
+  padding: 2rem 0rem 2rem 12.3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b {
+  margin-right: 12.4rem;
+  width: 13.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b .my-account-gN5 {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b .group-1000002821-1v9 {
+  width: 100%;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b .group-1000002821-1v9 .sign-in-ksj {
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b .group-1000002821-1v9 .monitor-progress-VaR {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b .group-1000002821-1v9 .compare-success-Cjj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002822-w9b .group-1000002821-1v9 .my-topics-uu3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h {
+  margin-right: 12.4rem;
+  width: 16.2rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h .about-ss-ZTo {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h .group-1000002823-hK7 {
+  width: 100%;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h .group-1000002823-hK7 .company-information-puX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h .group-1000002823-hK7 .resources-y1j {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h .group-1000002823-hK7 .our-success-WGZ {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002824-R6h .group-1000002823-hK7 .meet-the-experts-3nH {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002825-anD {
+  margin-right: 12.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002825-anD .support-8oj {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002825-anD .contact-us-fof {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH {
+  width: 35.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH .auto-group-7jnf-a9w {
+  box-sizing: border-box;
+  padding-bottom: 3.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH .auto-group-7jnf-a9w .artikel-8BT {
+  margin-bottom: 0.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH .auto-group-7jnf-a9w .dapatkah-informasi-terbaru-terkait-utbk-dan-beasiswa-s93 {
+  max-width: 20.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #d9d9d9;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH .group-1000002827-xgH {
+  box-sizing: border-box;
+  padding: 0.4rem 0.6rem 0.4rem 2rem;
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 7.5rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH .group-1000002827-xgH .email-address-sHT {
+  margin: 0rem 8.6rem 0.2rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #a7a7a7;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-4vzp-Uhw .auto-group-occk-op5 .group-1000002828-DaH .group-1000002827-xgH .group-1000002826-yrH {
+  width: 13.9rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.6rem 1.7rem rgba(84, 90, 232, 0.25);
+  background-color: #545ae8;
+  border-radius: 28.2rem;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-zhnk-BhT {
+  width: 100%;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-zhnk-BhT .created-with-love-by-thecreationdesign-KYm {
+  width: 29.4rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 147.7rem;
+  top: 1.2rem;
+  text-align: right;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-zhnk-BhT .rectangle-166-D8M {
+  opacity: 0.3;
+  width: 191.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(255, 255, 255, 0.3000000119);
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-zhnk-BhT .copyright-all-rights-researved-LCy {
+  width: 30.3rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 15rem;
+  top: 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home2-chF .auto-group-uwmm-9wP .group-1000002831-YpH .auto-group-zhnk-BhT .rectangle-222-dC5 {
+  width: 35.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 146.2rem;
+  top: 1.4rem;
+  background-color: #878bef;
+}
+
+a.sign-in-ksj {
+  color: #d9d9d9;
+  text-decoration: none;
+}

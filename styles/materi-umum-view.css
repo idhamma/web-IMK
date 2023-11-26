@@ -1,0 +1,492 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.materi-umum-view-Wxy {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffdfd;
+}
+.materi-umum-view-Wxy .rectangle-16-epH {
+  width: 188rem;
+  height: 104rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  background-color: #ffffff;
+}
+.materi-umum-view-Wxy .frame-21-yrZ {
+  width: 31rem;
+  height: 168rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 18rem;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #e3e7ff;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-227-HcM {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 118.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .sosiologi-1YM {
+  width: 8.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 122.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-226-WED {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 102.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .sejarah-d3w {
+  width: 6.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 106.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-225-8Fb {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 85.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .bahasa-indonesia-SXB {
+  width: 15.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 89.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-224-YaD {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 69.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .bahasa-inggris-GWD {
+  width: 13.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 73.2rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-223-mhs {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 52.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .kimia-WQZ {
+  width: 5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 56.6rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-220-1MK {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .matematika-vz5 {
+  width: 10.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 10.25rem;
+  top: 7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-221-SSd {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 19.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .biologi-AtR {
+  width: 6.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.45rem;
+  top: 23.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-222-grm {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 36.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .fisika-DLu {
+  width: 5.6rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 40.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-228-ioT {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 135.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .geografi-SzM {
+  width: 7.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 139.7rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .rectangle-229-mFw {
+  width: 25rem;
+  height: 10rem;
+  position: absolute;
+  left: 3rem;
+  top: 151.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.materi-umum-view-Wxy .frame-21-yrZ .ekonomi-6Z7 {
+  width: 8.3rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 11rem;
+  top: 155.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .rectangle-27-B4m {
+  width: 154rem;
+  height: 88rem;
+  position: absolute;
+  left: 36rem;
+  top: 18rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.materi-umum-view-Wxy .lorem-ipsum-Vr9 {
+  width: 11.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 41.6rem;
+  top: 32.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .matematika-integral-Bys {
+  width: 15rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 37.75rem;
+  top: 19.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .integral-gfj {
+  width: 12.1rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 40.05rem;
+  top: 25.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .rectangle-247-nTs {
+  width: 192rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.materi-umum-view-Wxy .header-XgM {
+  width: 179.7rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.materi-umum-view-Wxy .header-XgM .logo-TK7 {
+  margin: 0rem 3.3rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .logo-TK7 .logo-clean-1-wzy {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .logo-TK7 .study-smart-Uk1 {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .home-bZj {
+  margin: 0rem 3.8rem 2.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .belajar-i8Z {
+  margin: 0rem 3.95rem 2.4rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .latihan-Dr1 {
+  margin: 0rem 4.15rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .chat-9Um {
+  margin: 0rem 4.2rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .blog-TVT {
+  margin: 0rem 110.6rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .sign-out-aKB {
+  margin-top: 4.3rem;
+  width: 13.2rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.materi-umum-view-Wxy .header-XgM .sign-out-aKB .utbk-K1s {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-umum-view-Wxy .header-XgM .sign-out-aKB .group-1000002805-Dsw {
+  width: 13.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 25.7rem;
+}
+.materi-umum-view-Wxy .header-XgM .sign-out-aKB .group-1000002805-Dsw .rectangle-140-Zgu {
+  width: 12rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.materi-umum-view-Wxy .header-XgM .sign-out-aKB .group-1000002805-Dsw .log-out-6Rw {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}

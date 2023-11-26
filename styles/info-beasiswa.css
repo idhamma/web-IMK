@@ -1,0 +1,635 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.info-beasiswa-rhF {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .auto-group-js95-buj {
+  width: 16rem;
+  height: 6rem;
+  position: absolute;
+  left: 88rem;
+  top: 27.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffbfb;
+  border-radius: 4.5rem;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB {
+  width: 529.6rem;
+  height: 58.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 47.6rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002747-KUM {
+  margin: 0.4rem 20.4rem 1.2rem 0rem;
+  width: 69.8rem;
+  height: calc(100% - 1.6rem);
+  box-shadow: 0.6rem 0.6rem 1rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002747-KUM .group-1000002634-2Nm {
+  box-sizing: border-box;
+  padding: 0rem 0rem 6.7rem 0.2rem;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002747-KUM .group-1000002634-2Nm .lpdp-8gh {
+  margin-bottom: 5.1rem;
+  width: 69.6rem;
+  height: 32.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002747-KUM .group-1000002634-2Nm .syarat-beasiswa-lpdp-s2-dalam-negeri-pendaftaran-sebentar-lagi-G2D {
+  margin: 0rem 0.2rem 3.4rem 0rem;
+  max-width: 61.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002747-KUM .group-1000002634-2Nm .https-wwwkompascom-edu-read-2023-11-05-161700371-syarat-beasiswa-lpdp-s2-dalam-negeri-pendaftaran-sebentar-lagi-8KK {
+  margin-right: 2.2rem;
+  max-width: 61.8rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002748-xxZ {
+  margin: 0.4rem 20.4rem 1.2rem 0rem;
+  width: 69.8rem;
+  height: calc(100% - 1.6rem);
+  box-shadow: 0.6rem 0.6rem 1rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002748-xxZ .group-1000002634-GiM {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002748-xxZ .group-1000002634-GiM .rectangle-35-Cru {
+  width: 69.8rem;
+  height: 32.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002748-xxZ .group-1000002634-GiM .auto-group-ylry-YQy {
+  box-sizing: border-box;
+  padding: 5.5rem 4rem 8.2rem 4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002748-xxZ .group-1000002634-GiM .auto-group-ylry-YQy .pemberian-biaya-pendidikan-oleh-pemerintah-indonesia-kepada-putra-putri-terbaik-bangsa-indonesia-rwT {
+  margin-bottom: 3.4rem;
+  max-width: 61.8rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002748-xxZ .group-1000002634-GiM .auto-group-ylry-YQy .https-beasiswaunggulankemdikbudgoid--wCD {
+  margin-right: 4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX {
+  margin: 0.4rem 4.25rem 1.2rem 0rem;
+  width: 69.8rem;
+  height: calc(100% - 1.6rem);
+  box-shadow: 0.6rem 0.6rem 1rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX .group-1000002634-HQV {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX .group-1000002634-HQV .auto-group-ulkv-S2V {
+  width: 100%;
+  background-color: #e5e5e5;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX .group-1000002634-HQV .auto-group-ulkv-S2V .rectangle-50-yo7 {
+  width: 69.8rem;
+  height: 32.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX .group-1000002634-HQV .auto-group-6ugb-VWZ {
+  box-sizing: border-box;
+  padding: 5.1rem 5.25rem 4.8rem 3.25rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX .group-1000002634-HQV .auto-group-6ugb-VWZ .simak-5-beasiswa-s1-s3-yang-tutup-pendaftaran-di-bulan-november-Cvm {
+  margin: 0rem 3.4rem 5.3rem 0rem;
+  max-width: 56.4rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002749-NHX .group-1000002634-HQV .auto-group-6ugb-VWZ .https-newsdetikcom-berita-d-7005216-pemkot-semarang-genjot-pemerataan-pendidikan-lewat-sekolah-swasta-gratis-fZT {
+  max-width: 61.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf {
+  margin: 0.8rem 1.15rem 1.2rem 0rem;
+  width: 102.1rem;
+  height: calc(100% - 2rem);
+  box-shadow: 0.6rem 0.6rem 1rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf .group-1000002634-Q9f {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf .group-1000002634-Q9f .rectangle-34-YFs {
+  width: 69.8rem;
+  height: 56.2rem;
+  position: absolute;
+  left: 16.15rem;
+  top: 0;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf .group-1000002634-Q9f .https-wwwkompascom-edu-read-2023-11-04-153000171-simak-5-universitas-terbaik-di-kanada-beserta-rekomendasi-beasiswanya-Fg5 {
+  width: 102.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 48.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf .group-1000002634-Q9f .rectangle-35-gFb {
+  width: 69.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 16.15rem;
+  top: 0;
+  background-color: #e5e5e5;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf .group-1000002634-Q9f .rectangle-51-12y {
+  width: 69.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 16.15rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002750-gDf .group-1000002634-Q9f .simak-5-universitas-terbaik-di-kanada-beserta-rekomendasi-beasiswanya-vfj {
+  width: 73.2rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 20.15rem;
+  top: 37.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 {
+  margin: 0.8rem 7.35rem 1.2rem 0rem;
+  width: 78rem;
+  height: calc(100% - 2rem);
+  box-shadow: 0.6rem 0.6rem 1rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 .group-1000002634-VMT {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 .group-1000002634-VMT .rectangle-34-eEM {
+  width: 69.8rem;
+  height: 56.2rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 .group-1000002634-VMT .https-edukasikompascom-read-2023-11-04-103955271-ini-5-beasiswa-s2-dalam-negeri-tanpa-toefl-ZMK {
+  width: 78rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 48.4rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 .group-1000002634-VMT .rectangle-35-R8d {
+  width: 69.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  background-color: #e5e5e5;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 .group-1000002634-VMT .rectangle-52-M2H {
+  width: 69.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002751-ye1 .group-1000002634-VMT .ini-5-beasiswa-s2-dalam-negeri-tanpa-toefl-Uch {
+  width: 45rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 7.1rem;
+  top: 37.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q {
+  margin-bottom: 1.2rem;
+  width: 89.1rem;
+  height: 57rem;
+  box-shadow: 0.6rem 0.6rem 1rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q .group-1000002634-Sxq {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q .group-1000002634-Sxq .rectangle-34-baq {
+  width: 69.8rem;
+  height: 57rem;
+  position: absolute;
+  left: 7.95rem;
+  top: 0;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q .group-1000002634-Sxq .https-newsdetikcom-berita-d-7005216-pemkot-semarang-genjot-pemerataan-pendidikan-lewat-sekolah-swasta-gratis-7p5 {
+  width: 89.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 49.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q .group-1000002634-Sxq .rectangle-35-m7w {
+  width: 69.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 7.95rem;
+  top: 0;
+  background-color: #e5e5e5;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q .group-1000002634-Sxq .rectangle-54-gVo {
+  width: 69.8rem;
+  height: 32.6rem;
+  position: absolute;
+  left: 7.95rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.info-beasiswa-rhF .list-beasiswa-QsB .group-1000002752-j2q .group-1000002634-Sxq .beasiswa-s1-dari-lps-ada-bantuan-rp-15-juta-per-bulan-ceM {
+  width: 56.1rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 11.95rem;
+  top: 37.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .header-rYh {
+  width: 179.7rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.info-beasiswa-rhF .header-rYh .logo-B5B {
+  margin: 0rem 3.3rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .logo-B5B .logo-clean-1-H8D {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .logo-B5B .study-smart-1a1 {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .home-X2Z {
+  margin: 0rem 3.8rem 2.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .belajar-pGZ {
+  margin: 0rem 3.95rem 2.4rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .latihan-WfB {
+  margin: 0rem 4.15rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .chat-cy7 {
+  margin: 0rem 4.2rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .blog-XaH {
+  margin: 0rem 110.6rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .sign-out-EzV {
+  margin-top: 4.3rem;
+  width: 13.2rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.info-beasiswa-rhF .header-rYh .sign-out-EzV .utbk-YkH {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .header-rYh .sign-out-EzV .group-1000002805-eYR {
+  width: 13.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 25.7rem;
+}
+.info-beasiswa-rhF .header-rYh .sign-out-EzV .group-1000002805-eYR .rectangle-140-nPj {
+  width: 12rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.info-beasiswa-rhF .header-rYh .sign-out-EzV .group-1000002805-eYR .log-out-WqX {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.info-beasiswa-rhF .rectangle-42-bc5 {
+  width: 188rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 2rem;
+  top: 16.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+/* Style for the dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Background color of the dropdown */
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+  color: black; /* Text color of the dropdown links */
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Background color on hover */
+}
+
+/* Show the dropdown content when hovering over the dropdown container */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Remove underline and maintain text color and size for navigation links */
+a.home-RiR ,
+.belajar-wRs a,
+.latihan-Evm a,
+.chat-AJd a,
+.blog-g25 a,
+a.log-out-WqX {
+  text-decoration: none;
+  color: black;
+  font-size: 62,5%;
+}

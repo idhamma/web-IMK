@@ -1,0 +1,760 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.materi-utbk-8xh {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #fffdfd;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 {
+  box-sizing: border-box;
+  padding: 3.1rem 2.5rem 3.1rem 3.1rem;
+  width: 28.8rem;
+  height: 49.5rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 18.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e3e7ff;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .kemampuan-penalaran-umum-kjB {
+  margin: 0rem 6.7rem 2.7rem 0rem;
+  max-width: 16.5rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .pengetahuan-dan-pemahaman-umum-qkd {
+  margin: 0rem 6.1rem 2.5rem 0rem;
+  max-width: 17.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .kemampuan-memahami-bacaan-dan-menulis-9WR {
+  margin-bottom: 2.5rem;
+  max-width: 23.2rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .pengetahuan-kuantitatif-fDs {
+  margin: 0rem 1.7rem 3.1rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .literasi-dalam-bahasa-indonesia-a5w {
+  margin: 0rem 7.7rem 2.4rem 0rem;
+  max-width: 15.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .literasi-dalam-bahasa-inggris-sqj {
+  margin: 0rem 10.1rem 2.4rem 0rem;
+  max-width: 13.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .auto-group-j3zj-5N9 .penalaran-matematika-nho {
+  margin-right: 1.6rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF {
+  width: 147.2rem;
+  height: 137.3186rem;
+  position: absolute;
+  left: 38.6rem;
+  top: 18.8rem;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX {
+  margin: 0rem 0rem 2.597rem 0.4rem;
+  height: 43.8748rem;
+  display: flex;
+  align-items: center;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu {
+  margin-right: 3.0973rem;
+  width: 46.8686rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu .rectangle-35-66D {
+  width: 46.8686rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu .auto-group-2us5-pnu {
+  box-sizing: border-box;
+  padding: 2.927rem 2.581rem 4.194rem 2.581rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu .auto-group-2us5-pnu .auto-group-hnjf-9aH {
+  margin-bottom: 1.0323rem;
+  width: 100%;
+  height: 5.8484rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu .auto-group-2us5-pnu .auto-group-hnjf-9aH .kemampuan-penalaran-umum-tnm {
+  width: 16.5rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0.0191rem;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu .auto-group-2us5-pnu .auto-group-hnjf-9aH .rectangle-128-zqo {
+  width: 41.7068rem;
+  height: 1.0324rem;
+  position: absolute;
+  left: 0;
+  top: 4.816rem;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002634-xEu .auto-group-2us5-pnu .complate-KdB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B {
+  margin-right: 3.0969rem;
+  width: 46.8687rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B .rectangle-35-eos {
+  width: 46.8687rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B .auto-group-j1kx-zsj {
+  box-sizing: border-box;
+  padding: 2.927rem 2.581rem 4.194rem 2.534rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B .auto-group-j1kx-zsj .pengetahuan-dan-pemahaman-umum-w2H {
+  margin-bottom: 0.4161rem;
+  max-width: 17.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B .auto-group-j1kx-zsj .auto-group-ugif-FYm {
+  margin: 0rem 0rem 1.032rem 0.047rem;
+  width: calc(100% - 0.0467rem);
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B .auto-group-j1kx-zsj .auto-group-ugif-FYm .rectangle-131-BSR {
+  width: 4.1707rem;
+  height: 1.0324rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002635-v7B .auto-group-j1kx-zsj .complate-75B {
+  margin-left: 0.0467rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu {
+  width: 46.8687rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu .rectangle-35-jMT {
+  width: 46.8687rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu .auto-group-kmc7-UK3 {
+  box-sizing: border-box;
+  padding: 2.927rem 2.581rem 4.194rem 2.569rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu .auto-group-kmc7-UK3 .auto-group-bdbh-D1j {
+  margin-bottom: 1.0323rem;
+  width: 100%;
+  height: 5.8484rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu .auto-group-kmc7-UK3 .auto-group-bdbh-D1j .kemampuan-memahami-bacaan-dan-menulis-9vy {
+  width: 23.2rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu .auto-group-kmc7-UK3 .auto-group-bdbh-D1j .rectangle-130-Twf {
+  width: 41.7069rem;
+  height: 1.0324rem;
+  position: absolute;
+  left: 0.0122rem;
+  top: 4.816rem;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-yggk-dTX .group-1000002636-oCu .auto-group-kmc7-UK3 .complate-b2H {
+  margin-left: 0.0122rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j {
+  margin-bottom: 3.0971rem;
+  height: 43.8749rem;
+  display: flex;
+  align-items: center;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002634-ci5 {
+  margin: 0rem 3.097rem 0rem 0rem;
+  width: 46.8686rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002634-ci5 .rectangle-35-wVT {
+  width: 46.8686rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002634-ci5 .auto-group-2szm-Gnd {
+  box-sizing: border-box;
+  padding: 2.891rem 2.581rem 4.194rem 2.581rem;
+  width: 100%;
+  height: 16.0014rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002634-ci5 .auto-group-2szm-Gnd .pengetahuan-kuantitatif-CAV {
+  margin-bottom: 2.6521rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002634-ci5 .auto-group-2szm-Gnd .rectangle-128-t3K {
+  margin-bottom: 1.0323rem;
+  width: 100%;
+  height: 1.0324rem;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002634-ci5 .auto-group-2szm-Gnd .complate-nuP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru {
+  margin: 0rem 3.097rem 0rem 0rem;
+  width: 46.8687rem;
+  height: calc(100% - 0rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru .rectangle-35-nnu {
+  width: 46.8687rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru .auto-group-kptk-Knq {
+  box-sizing: border-box;
+  padding: 2.855rem 2.581rem 4.194rem 2.534rem;
+  width: 100%;
+  height: 16.0014rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru .auto-group-kptk-Knq .literasi-dalam-bahasa-indonesia-FRb {
+  margin-bottom: 0.4879rem;
+  max-width: 15.5rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru .auto-group-kptk-Knq .auto-group-zhtp-mPw {
+  margin: 0rem 0rem 1.032rem 0.047rem;
+  width: calc(100% - 0.0467rem);
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru .auto-group-kptk-Knq .auto-group-zhtp-mPw .rectangle-131-Vaq {
+  width: 4.1707rem;
+  height: 1.0324rem;
+  background-color: #d9d9d9;
+  border-radius: 1rem;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002635-4ru .auto-group-kptk-Knq .complate-cvM {
+  margin-left: 0.0467rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb {
+  margin-top: 0rem;
+  width: 46.8687rem;
+  height: calc(100% - 0rem);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb .group-1000002636-3km {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb .group-1000002636-3km .rectangle-35-bnH {
+  width: 46.8687rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb .group-1000002636-3km .auto-group-1cp5-Lzm {
+  box-sizing: border-box;
+  padding: 2.891rem 2.581rem 4.194rem 2.581rem;
+  width: 100%;
+  height: 16.0014rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb .group-1000002636-3km .auto-group-1cp5-Lzm .literasi-dalam-bahasa-inggris-fn9 {
+  margin: 0rem 0rem 0.452rem 0rem;
+  max-width: 13.1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb .group-1000002636-3km .auto-group-1cp5-Lzm .rectangle-130-mqB {
+  margin-bottom: 1.0323rem;
+  width: 100%;
+  height: 1.0324rem;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .auto-group-qrhm-g3j .group-1000002751-iTb .group-1000002636-3km .auto-group-1cp5-Lzm .complate-uAh {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .group-1000002634-cL1 {
+  width: 46.8686rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #e6e6e6;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.materi-utbk-8xh .frame-20-JRF .group-1000002634-cL1 .rectangle-35-kx1 {
+  width: 46.8686rem;
+  height: 27.8734rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .group-1000002634-cL1 .auto-group-arbh-6FB {
+  box-sizing: border-box;
+  padding: 2.883rem 2.581rem 4.194rem 2.581rem;
+  width: 100%;
+  height: 16.0014rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .group-1000002634-cL1 .auto-group-arbh-6FB .penalaran-matematika-R2Z {
+  margin: 0rem 0rem 2.36rem 0.019rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #221e1e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .group-1000002634-cL1 .auto-group-arbh-6FB .rectangle-128-7g5 {
+  margin-bottom: 1.0323rem;
+  width: 100%;
+  height: 1.0324rem;
+  background-color: #f0f0f0;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .frame-20-JRF .group-1000002634-cL1 .auto-group-arbh-6FB .complate-evu {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .rectangle-247-AuF {
+  width: 192rem;
+  height: 18.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.materi-utbk-8xh .header-7pV {
+  width: 179.7rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.materi-utbk-8xh .header-7pV .logo-qVb {
+  margin: 0rem 3.3rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .logo-qVb .logo-clean-1-A25 {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .logo-qVb .study-smart-HcV {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .home-c8y {
+  margin: 0rem 3.8rem 2.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .belajar-iho {
+  margin: 0rem 3.95rem 2.4rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .latihan-dZs {
+  margin: 0rem 4.15rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .chat-Ywj {
+  margin: 0rem 4.2rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .blog-Gcq {
+  margin: 0rem 110.6rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .sign-out-bQD {
+  margin-top: 4.3rem;
+  width: 13.2rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.materi-utbk-8xh .header-7pV .sign-out-bQD .utbk-jWR {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.materi-utbk-8xh .header-7pV .sign-out-bQD .group-1000002805-e7b {
+  width: 13.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 25.7rem;
+}
+.materi-utbk-8xh .header-7pV .sign-out-bQD .group-1000002805-e7b .rectangle-140-BdK {
+  width: 12rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.materi-utbk-8xh .header-7pV .sign-out-bQD .group-1000002805-e7b .log-out-KUd {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+/* Style for the dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Background color of the dropdown */
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+  color: black; /* Text color of the dropdown links */
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Background color on hover */
+}
+
+/* Show the dropdown content when hovering over the dropdown container */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Remove underline and maintain text color and size for navigation links */
+a.home-RiR ,
+.belajar-wRs a,
+.latihan-Evm a,
+.chat-AJd a,
+.blog-g25 a,
+a.log-out-KUd {
+  text-decoration: none;
+  color: black;
+  font-size: 62,5%;
+}

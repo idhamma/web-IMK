@@ -1,0 +1,80 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.chat-bot-BAZ {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+
+  .rectangle-16-hPo {
+    top: 2rem;
+    background-color: #ffffff;
+    width: 188rem;
+    height: 104rem;
+    position: absolute;
+    left: 2rem;
+  }
+  .rectangle-38-R4u {
+    top: 15.7rem;
+    border: solid 0.1rem #000000;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    width: 188rem;
+    height: 90.3rem;
+    position: absolute;
+    left: 2rem;
+  }
+  .rectangle-71-8ED {
+    width: 160rem;
+    height: 7rem;
+    position: absolute;
+    top: 97rem;
+    border: solid 0.1rem #000000;
+    box-sizing: border-box;
+    left: 4rem;
+    background-color: #ffffff;
+    border-radius: 1.5rem;
+  }
+  .rectangle-72-dAy {
+    top: 98rem;
+    border: solid 0.1rem #ffffff;
+    width: 18rem;
+    height: 5rem;
+    position: absolute;
+    left: 169rem;
+    box-sizing: border-box;
+    background-color: #545ae8;
+    border-radius: 25.7rem;
+  }
+  .send-87j {
+    color: #ffffff;
+    white-space: nowrap;
+    width: 4.9rem;
+    text-align: center;
+    font-weight: 400;
+    top: 99rem;
+    font-size: 2rem;
+    line-height: 1.21;
+    font-family: Libre Franklin, 'Source Sans Pro';
+    height: 2.5rem;
+    position: absolute;
+    left: 175.55rem;
+  }
+}

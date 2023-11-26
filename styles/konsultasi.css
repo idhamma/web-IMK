@@ -1,0 +1,835 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.konsultasi-8JV {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.konsultasi-8JV .rectangle-16-FP7 {
+  width: 188rem;
+  height: 104rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  background-color: #ffffff;
+}
+.konsultasi-8JV .chat-dengan-konsultan-9zH {
+  width: 20.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 102.55rem;
+  top: 62rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konsultasi-8JV .history-chat-EF3 {
+  box-sizing: border-box;
+  padding: 0.4rem 0rem 1.4rem 0rem;
+  width: 31rem;
+  height: 51.5rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 78.2rem;
+  overflow: hidden;
+  row-gap: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-hPX {
+  box-sizing: border-box;
+  padding: 1.3rem 13.5rem 0.812rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-hPX .icon-message-RKX {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-hPX .agitha-mentor-biologi-w2y {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-Lau {
+  box-sizing: border-box;
+  padding: 1.3rem 12rem 0.812rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-Lau .icon-message-rp9 {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-Lau .michael-mentor-ekonomi-zQZ {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-dTX {
+  box-sizing: border-box;
+  padding: 1.3rem 15rem 0.812rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-dTX .icon-message-ko3 {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-dTX .jinly-master-mentor-6M7 {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-LWM {
+  box-sizing: border-box;
+  padding: 1.3rem 12.8rem 0.812rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-LWM .icon-message-sWH {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-LWM .bintang-master-mentor-1cV {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-fh3 {
+  box-sizing: border-box;
+  padding: 1.3rem 12.1rem 0.812rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-fh3 .icon-message-Q8q {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-fh3 .isna-mentor-matematika-8qX {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-aSd {
+  box-sizing: border-box;
+  padding: 1.3rem 9rem 0.812rem 1.5rem;
+  width: 100%;
+  height: 4.1rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-aSd .icon-message-ty7 {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-aSd .vina-mentor-bahasa-indonesia-EXB {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-1RT {
+  box-sizing: border-box;
+  padding: 1.3rem 10.5rem 0.812rem 1.5rem;
+  width: 100%;
+  height: 4.1rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-1RT .icon-message-WND {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-1RT .sofa-mentor-bahasa-inggris-dhj {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-feR {
+  box-sizing: border-box;
+  padding: 1.3rem 8rem 0.812rem 1.5rem;
+  width: 100%;
+  height: 4.1rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-feR .icon-message-mxM {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-feR .dinda-mentor-bahasa-indonesia-hLD {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-LPB {
+  box-sizing: border-box;
+  padding: 1.3rem 14.2rem 0.812rem 1.5rem;
+  width: 100%;
+  height: 4.1rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-LPB .icon-message-ePs {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.9878rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-EF3 .buble-chat-LPB .amel-master-mentor-yS9 {
+  margin-bottom: 0.4878rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .rectangle-250-zMF {
+  width: 35.6rem;
+  height: 66.8rem;
+  position: absolute;
+  left: 0;
+  top: 11.4rem;
+  background-color: #ffffff;
+}
+.konsultasi-8JV .history-chat-io3 {
+  box-sizing: border-box;
+  padding-top: 0.4rem;
+  width: 31rem;
+  height: 38.7rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 22.9rem;
+  overflow: hidden;
+  row-gap: 1.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-oJh {
+  box-sizing: border-box;
+  padding: 1.23rem 12.3rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-oJh .icon-message-XEh {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-oJh .zaki-mentor-matematika-e4R {
+  margin-bottom: 0.3446rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-pd7 {
+  box-sizing: border-box;
+  padding: 1.23rem 8.2rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-pd7 .icon-message-LrM {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-pd7 .habib-mentor-bahasa-indonesia-53F {
+  margin-bottom: 0.3446rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-7Eq {
+  box-sizing: border-box;
+  padding: 1.23rem 9.8rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-7Eq .icon-message-SY1 {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-7Eq .karan-mentor-bahasa-inggris-Ayo {
+  margin-bottom: 0.3446rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-1jX {
+  box-sizing: border-box;
+  padding: 1.23rem 15rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-1jX .icon-message-kSD {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-1jX .jamal-mentor-kimia-Hh3 {
+  margin-bottom: 0.3446rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-K7w {
+  box-sizing: border-box;
+  padding: 1.23rem 14.8rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-K7w .icon-message-SiM {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-K7w .rino-master-mentor-mkd {
+  margin-bottom: 0.3446rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-bjf {
+  box-sizing: border-box;
+  padding: 1.23rem 14.7rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-bjf .icon-message-j5B {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-bjf .kent-master-mentor-rfb {
+  margin-bottom: 0.3446rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-6pq {
+  box-sizing: border-box;
+  padding: 1.23rem 16rem 0.886rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem rgba(172, 172, 172, 0.5);
+  box-shadow: 0.6rem 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-6pq .icon-message-nSm {
+  margin-right: 0.8rem;
+  width: 2rem;
+  height: 1.984rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .history-chat-io3 .buble-chat-6pq .leo-mentor-fisika-7E9 {
+  margin-bottom: 0.3446rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .mentor-online-vBb {
+  width: 21.1rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 68rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #1c1c1c;
+  font-family: Smooch Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konsultasi-8JV .history-chat-Pqs {
+  width: 18.4rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 17.4rem;
+  font-size: 4.8rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: #1c1c1c;
+  font-family: Smooch Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konsultasi-8JV .rectangle-27-4x1 {
+  width: 154.4rem;
+  height: 88.7rem;
+  position: absolute;
+  left: 35.6rem;
+  top: 16.8rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.konsultasi-8JV .rectangle-72-Nho {
+  width: 14.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 172.8rem;
+  top: 98rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.konsultasi-8JV .send-GYH {
+  width: 4.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 177.7rem;
+  top: 99rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konsultasi-8JV .rectangle-71-a3B {
+  width: 131.4rem;
+  height: 7rem;
+  position: absolute;
+  left: 37.2rem;
+  top: 97rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.konsultasi-8JV .rectangle-247-gc1 {
+  width: 192rem;
+  height: 14.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.konsultasi-8JV .header-1uB {
+  width: 179.7rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.konsultasi-8JV .header-1uB .logo-8D7 {
+  margin: 0rem 3.3rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .logo-8D7 .logo-clean-1-q7X {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .logo-8D7 .study-smart-9tu {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .home-Teh {
+  margin: 0rem 3.8rem 2.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .belajar-xrM {
+  margin: 0rem 3.95rem 2.4rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .latihan-TYD {
+  margin: 0rem 4.15rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .chat-mJ1 {
+  margin: 0rem 4.2rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .blog-srq {
+  margin: 0rem 110.6rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .sign-out-Nob {
+  margin-top: 4.3rem;
+  width: 13.2rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.konsultasi-8JV .header-1uB .sign-out-Nob .utbk-JhF {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konsultasi-8JV .header-1uB .sign-out-Nob .group-1000002805-CXj {
+  width: 13.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 25.7rem;
+}
+.konsultasi-8JV .header-1uB .sign-out-Nob .group-1000002805-CXj .rectangle-140-8RP {
+  width: 12rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.konsultasi-8JV .header-1uB .sign-out-Nob .group-1000002805-CXj .log-out-qKo {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+/* Style for the dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Background color of the dropdown */
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+  color: black; /* Text color of the dropdown links */
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Background color on hover */
+}
+
+/* Show the dropdown content when hovering over the dropdown container */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Remove underline and maintain text color and size for navigation links */
+a.home-RiR ,
+.belajar-wRs a,
+.latihan-Evm a,
+.chat-AJd a,
+.blog-g25 a,
+a.log-out-qKo {
+  text-decoration: none;
+  color: black;
+  font-size: 62,5%;
+}

@@ -1,0 +1,1424 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.daily-quiz2--MhK {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.daily-quiz2--MhK .rectangle-16-Syf {
+  width: 188rem;
+  height: 104rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  background-color: #ffffff;
+}
+.daily-quiz2--MhK .rectangle-94-NMX {
+  width: 153.8rem;
+  height: 78rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 26.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.daily-quiz2--MhK .rectangle-160-5mj {
+  width: 16.4rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 171.9rem;
+  top: 97.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.daily-quiz2--MhK .submit-attempt-bEH {
+  width: 13.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 173.3rem;
+  top: 99.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daily-quiz2--MhK .rectangle-158-UYy {
+  width: 16.4rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 58.7rem;
+  top: 97.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.daily-quiz2--MhK .rectangle-159-BTP {
+  width: 16.4rem;
+  height: 6.3rem;
+  position: absolute;
+  left: 38.3rem;
+  top: 97.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.daily-quiz2--MhK .soal-selanjutnya-VU5 {
+  width: 14.7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 59.55rem;
+  top: 99.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daily-quiz2--MhK .soal-sebelumnya-akR {
+  width: 15.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 38.9rem;
+  top: 99.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daily-quiz2--MhK .rectangle-27-Heq {
+  width: 153.9rem;
+  height: 78rem;
+  position: absolute;
+  left: 36.1rem;
+  top: 18.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.daily-quiz2--MhK .ellipse-128-QjT {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 49.1rem;
+  top: 46.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daily-quiz2--MhK .ellipse-129-Y4y {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 49.1rem;
+  top: 50.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daily-quiz2--MhK .ellipse-130-GWm {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 49.1rem;
+  top: 42.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daily-quiz2--MhK .lorem-ipsum-PLV {
+  width: 11.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 49.55rem;
+  top: 32.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daily-quiz2--MhK .a-lorem-ipsum-b-lorem-ipsum-c-lorem-ipsum-d-lorem-ipsum-HRs {
+  width: 13.5rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 52.9rem;
+  top: 37.3rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.daily-quiz2--MhK .ellipse-131-BGM {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 49.1rem;
+  top: 37.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.daily-quiz2--MhK .group-1000002847-7vh {
+  box-sizing: border-box;
+  padding: 1.1rem 1.3rem 1.1rem 1.4rem;
+  width: 32.6rem;
+  height: 53rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 35.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-wg5q-n1F {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-wg5q-n1F .auto-group-fyet-he1 {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-wg5q-n1F .auto-group-1xab-y5j {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-wg5q-n1F .auto-group-vsjq-dg5 {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-wg5q-n1F .auto-group-ss2f-v9P {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-wg5q-n1F .auto-group-mnbu-azd {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-gtcf-U4R {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-gtcf-U4R .auto-group-jpvd-oMb {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-gtcf-U4R .auto-group-pj3h-HGm {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-gtcf-U4R .auto-group-7gdr-mBw {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-gtcf-U4R .auto-group-dd8f-SYy {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-gtcf-U4R .auto-group-obab-j2H {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-spiw-QeD {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-spiw-QeD .auto-group-wk3r-wPF {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-spiw-QeD .auto-group-fs83-29o {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-spiw-QeD .auto-group-7mrd-6QZ {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-spiw-QeD .auto-group-tugx-aqX {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-spiw-QeD .auto-group-9ejo-spd {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-brb5-A33 {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-brb5-A33 .auto-group-lrgo-tzd {
+  margin: 0.1rem 2.4rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-brb5-A33 .auto-group-vyjk-MNR {
+  margin: 0.1rem 2.5rem 0rem 0rem;
+  width: 4rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-brb5-A33 .auto-group-zksy-R7P {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-brb5-A33 .auto-group-ggcj-Vsw {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-brb5-A33 .auto-group-y33h-auP {
+  width: 4rem;
+  height: 4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-s6nf-sNh {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-s6nf-sNh .auto-group-tjdr-QdX {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-s6nf-sNh .auto-group-frxw-HSR {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-s6nf-sNh .auto-group-jbhd-msP {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-s6nf-sNh .auto-group-s9p9-ewB {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-s6nf-sNh .auto-group-fjww-Xzy {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-dajf-pjB {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-dajf-pjB .auto-group-zabm-xqP {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-dajf-pjB .auto-group-bk4f-FpV {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-dajf-pjB .auto-group-ctwz-jzZ {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-dajf-pjB .auto-group-n1y5-2im {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-dajf-pjB .auto-group-rnyj-VsF {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-tpvx-ado {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-tpvx-ado .auto-group-zdsy-X3F {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-tpvx-ado .auto-group-knf5-1DK {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-tpvx-ado .auto-group-gjg7-gaM {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-tpvx-ado .auto-group-htz1-B1K {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-tpvx-ado .auto-group-h3b1-rt9 {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-jvyo-ZGm {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-jvyo-ZGm .auto-group-xxkp-gMP {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-jvyo-ZGm .auto-group-8gdh-ZRB {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-jvyo-ZGm .auto-group-q3tq-3r9 {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-jvyo-ZGm .auto-group-xqjp-8sb {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-jvyo-ZGm .auto-group-yzh5-E9w {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-odb9-vHf {
+  margin-bottom: 1.2rem;
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-odb9-vHf .auto-group-d5oq-eDf {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-odb9-vHf .auto-group-hrsh-vgy {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-odb9-vHf .auto-group-knbm-Qs3 {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-odb9-vHf .auto-group-mwuf-uJ1 {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-odb9-vHf .auto-group-b6ct-NxH {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-vwd5-GXs {
+  width: 100%;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-vwd5-GXs .auto-group-ypzs-CwK {
+  margin-right: 2.4rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-vwd5-GXs .auto-group-ck4j-VvR {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-vwd5-GXs .auto-group-1tgj-bCm {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-vwd5-GXs .auto-group-kqm5-5dj {
+  margin-right: 2.5rem;
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .group-1000002847-7vh .auto-group-vwd5-GXs .auto-group-pbvj-ZYu {
+  width: 4rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 {
+  width: 179.7rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.daily-quiz2--MhK .header-EQ9 .logo-Yfj {
+  margin: 0rem 3.3rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .logo-Yfj .logo-clean-1-48H {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .logo-Yfj .study-smart-BTo {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .home-hS9 {
+  margin: 0rem 3.8rem 2.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .belajar-ok5 {
+  margin: 0rem 3.95rem 2.4rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .latihan-uo7 {
+  margin: 0rem 4.15rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .chat-2cq {
+  margin: 0rem 4.2rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .blog-YbB {
+  margin: 0rem 110.6rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .sign-out-4ZX {
+  margin-top: 4.3rem;
+  width: 13.2rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.daily-quiz2--MhK .header-EQ9 .sign-out-4ZX .utbk-oGD {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: white;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.daily-quiz2--MhK .header-EQ9 .sign-out-4ZX .group-1000002805-721 {
+  width: 13.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 25.7rem;
+}
+.daily-quiz2--MhK .header-EQ9 .sign-out-4ZX .group-1000002805-721 .rectangle-140-e1w {
+  width: 12rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.daily-quiz2--MhK .header-EQ9 .sign-out-4ZX .group-1000002805-721 .log-out-FXX {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+/* Style for the dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Background color of the dropdown */
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+  color: black; /* Text color of the dropdown links */
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Background color on hover */
+}
+
+/* Show the dropdown content when hovering over the dropdown container */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Remove underline and maintain text color and size for navigation links */
+a.home-RiR ,
+.belajar-wRs a,
+.latihan-Evm a,
+.chat-AJd a,
+.blog-g25 a,
+a.utbk-oGD{
+  text-decoration: none;
+  color: black;
+  font-size: 62,5%;
+}

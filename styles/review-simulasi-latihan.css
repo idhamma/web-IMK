@@ -1,0 +1,1601 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.review-simulasi-latihan-bKw {
+  width: 100%;
+  height: 108rem;
+  position: relative;
+  overflow: hidden;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .rectangle-16-Ued {
+  width: 188rem;
+  height: 104rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo {
+  width: 188rem;
+  height: 104rem;
+  position: absolute;
+  left: 2rem;
+  top: 2rem;
+  overflow: hidden;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-26-oaR {
+  width: 32.6rem;
+  height: 53rem;
+  position: absolute;
+  left: 0.7rem;
+  top: 20.8rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-153-iBb {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 68.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-154-E9w {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 68.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-155-wq3 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 68.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-156-sih {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 68.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-157-zHX {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 68.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-148-Wmf {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 63.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-149-SfK {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 63.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-150-xtZ {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 63.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-151-tGR {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 63.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-152-D3o {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 63.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-89-jXw {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 27.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-88-CRX {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 27.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-87-Udw {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 27.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-8-zcH {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16.45rem;
+  top: 28rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-9-fiR {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.95rem;
+  top: 28rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-10-a4h {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.95rem;
+  top: 28rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-86-51T {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 27.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-7-oTF {
+  width: 1.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 10rem;
+  top: 28rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-85-7D3 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 27.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-113-36h {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 32.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-114-xzM {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 32.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-115-tt1 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 32.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-116-cZ7 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 32.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-12-8nM {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.5rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-13-qwf {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-14-m4d {
+  width: 2.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.45rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-117-fvh {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 32.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-118-oGD {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 37.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-119-vbj {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 37.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-120-FP7 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 37.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-121-yK7 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 37.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-122-uTf {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 37.5rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-16-RS1 {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 38.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-123-Xjw {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 42.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-124-TNh {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 42.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-125-muB {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 42.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-126-hnq {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 42.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-127-qPF {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 42.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-21-ZKF {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 43.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-22-sKw {
+  width: 2.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 43.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-23-BLd {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.85rem;
+  top: 43.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-24-HuT {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.35rem;
+  top: 43.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-25-bv9 {
+  width: 2.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 43.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-128-KLM {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 47.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-30-FUu {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 48.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-129-xu7 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 47.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-130-UsT {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 47.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-131-1cV {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 47.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-132-79j {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 47.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-26-RAR {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2.85rem;
+  top: 48.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-27-XDT {
+  width: 2.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 48.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-28-dnH {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.85rem;
+  top: 48.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-29-8j3 {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.35rem;
+  top: 48.8rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-133-qtM {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 53.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-134-Avd {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 53.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-135-hff {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 53.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-136-q1B {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 53.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-137-A3T {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 53.1rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-138-gnV {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 58.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-139-cAM {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 58.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-140-wCd {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 58.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-141-Twf {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 58.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-142-PaR {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 58.3rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-143-isb {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 28rem;
+  top: 21.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-5-FMj {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 29.45rem;
+  top: 22.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-144-9i1 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 21.5rem;
+  top: 21.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-4-GXj {
+  width: 1.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.9rem;
+  top: 22.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-145-yS9 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 15rem;
+  top: 21.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-3-VvH {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16.45rem;
+  top: 22.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-146-ck1 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 21.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-2-Ydf {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.95rem;
+  top: 22.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .rectangle-147-4M7 {
+  width: 4rem;
+  height: 4rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 21.9rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-1-zVf {
+  width: 0.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 22.7rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-6-hey {
+  width: 1.2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.45rem;
+  top: 28rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-11-19s {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-15-KAZ {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.9rem;
+  top: 33.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-17-cfT {
+  width: 2rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.55rem;
+  top: 38.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-18-XXX {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 16rem;
+  top: 38.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-19-2z5 {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 38.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-20-x73 {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.85rem;
+  top: 38.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-31-G7j {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 54rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-36-Aiu {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2.85rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-41-t97 {
+  width: 2.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 64.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-46-bZK {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 69.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-47-7Gm {
+  width: 2.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 69.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-48-DKo {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 69.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-49-WZo {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 69.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-50-2HF {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.85rem;
+  top: 69.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-42-LHw {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.35rem;
+  top: 64.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-43-eZX {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.8rem;
+  top: 64.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-44-ZRb {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 64.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-45-593 {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.85rem;
+  top: 64.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-37-zG1 {
+  width: 2.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-38-JXb {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.85rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-39-QqX {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.35rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-40-XQM {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.8rem;
+  top: 59.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-32-SXK {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 9.35rem;
+  top: 54rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-33-MeH {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 15.85rem;
+  top: 54rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-34-42u {
+  width: 2.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 54rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .frame-5-PFo .item-35-Mnh {
+  width: 2.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 28.75rem;
+  top: 54rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .rectangle-27-S3T {
+  width: 154.2rem;
+  height: 53.3rem;
+  position: absolute;
+  left: 36rem;
+  top: 22.7rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .rectangle-58-MRK {
+  width: 188rem;
+  height: 28rem;
+  position: absolute;
+  left: 2rem;
+  top: 78rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .rectangle-59-H45 {
+  width: 49rem;
+  height: 4rem;
+  position: absolute;
+  left: 70.8rem;
+  top: 16.6rem;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.review-simulasi-latihan-bKw .plih-soal-untuk-review-dropdown-bqT {
+  width: 30rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 80.3rem;
+  top: 17.6rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .jawaban-benar-uLM {
+  width: 13.6rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 86.4rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .ellipse-128-1PP {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 47rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-simulasi-latihan-bKw .salah-XsX {
+  width: 6.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 82.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ff0000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .lorem-ipsum-SUh {
+  width: 8.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 12.55rem;
+  top: 90.4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .ellipse-129-kEV {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 51.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-simulasi-latihan-bKw .ellipse-130-5Xf {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 42.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-simulasi-latihan-bKw .lorem-ipsum-oyT {
+  width: 11.4rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 46.55rem;
+  top: 33.1rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .a-lorem-ipsum-b-lorem-ipsum-c-lorem-ipsum-d-lorem-ipsum-X8m {
+  width: 13.5rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 49.9rem;
+  top: 37.8rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.review-simulasi-latihan-bKw .ellipse-131-1Zj {
+  width: 1.8rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 46.1rem;
+  top: 38.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-simulasi-latihan-bKw .header-wyB {
+  width: 179.7rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 8.1rem;
+  top: 3rem;
+  display: flex;
+  align-items: center;
+}
+.review-simulasi-latihan-bKw .header-wyB .logo-4Y1 {
+  margin: 0rem 3.3rem 2.6rem 0rem;
+  box-sizing: border-box;
+  padding: 0.621rem 0rem 0.451rem 0.61rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .logo-4Y1 .logo-clean-1-Ab3 {
+  margin-right: 1.1113rem;
+  width: 5.2789rem;
+  height: 5.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .logo-4Y1 .study-smart-VdK {
+  margin-top: 0.33rem;
+  max-width: 4.3rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .home-QEV {
+  margin: 0rem 3.8rem 2.3rem 0rem;
+  cursor: pointer;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .belajar-hzH {
+  margin: 0rem 3.95rem 2.4rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .latihan-QNu {
+  margin: 0rem 4.15rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #545ae8;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .chat-uqT {
+  margin: 0rem 4.2rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .blog-txH {
+  margin: 0rem 110.6rem 2.1rem 0rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #000000;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .sign-out-jxu {
+  margin-top: 4.3rem;
+  width: 13.2rem;
+  height: 4.8rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 25.7rem;
+  flex-shrink: 0;
+}
+.review-simulasi-latihan-bKw .header-wyB .sign-out-jxu .utbk-eKB {
+  width: 7rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.15rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-simulasi-latihan-bKw .header-wyB .sign-out-jxu .group-1000002805-6gy {
+  width: 13.2rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 25.7rem;
+}
+.review-simulasi-latihan-bKw .header-wyB .sign-out-jxu .group-1000002805-6gy .rectangle-140-Czu {
+  width: 12rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0;
+  background-color: #545ae8;
+  border-radius: 25.7rem;
+}
+.review-simulasi-latihan-bKw .header-wyB .sign-out-jxu .group-1000002805-6gy .log-out-XGV {
+  width: 5.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  color: #ffffff;
+  font-family: Libre Franklin, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+/* Style for the dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9; /* Background color of the dropdown */
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+  color: black; /* Text color of the dropdown links */
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Background color on hover */
+}
+
+/* Show the dropdown content when hovering over the dropdown container */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Remove underline and maintain text color and size for navigation links */
+a.home-RiR ,
+.belajar-wRs a,
+.latihan-Evm a,
+.chat-AJd a,
+.blog-g25 a,
+a.log-out-XGV {
+  text-decoration: none;
+  color: black;
+  font-size: 62,5%;
+}
